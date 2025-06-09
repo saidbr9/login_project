@@ -9,3 +9,4 @@ if login(user, pw):
 else:
     print("Login gagal! Username atau password salah.")
 
+print("Fitur logout aktif")
